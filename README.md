@@ -1,1 +1,0 @@
-Adaugă APK-ul în folderul apk și capturile în images.
